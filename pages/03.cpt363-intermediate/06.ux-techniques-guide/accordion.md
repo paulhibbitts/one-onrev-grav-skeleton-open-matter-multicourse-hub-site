@@ -13,4 +13,3 @@ content:
 show_sidebar: true
 ---
 
-
